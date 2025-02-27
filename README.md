@@ -35,5 +35,5 @@ This project analyzes sector volatility and risk using historical performance da
 <ul>
     <li>A volatility forecasting model that predicts risk levels across key sectors.</li>
     <li>Graphs and visualizations generated from the project’s analysis.</li>
-    <li>An interactive <strong><a href="https://public.tableau.com/views/Book1_17403900532660/SectorVolatility?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link" target="_blank">Tableau dashboard</a></strong> displaying sector risk profiles and forecasts.</li>
+    <li>An interactive <strong><a href="https://public.tableau.com/views/Book1_17403900532660/SectorVolatility?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link" target="_blank">Tableau dashboard</a></strong> displaying sector volatility and forecasts.</li>
 </ul>
